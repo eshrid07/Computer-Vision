@@ -1,0 +1,39 @@
+Perception - https://www.linkedin.com/posts/activity-7119940112704004096-KIx-/?utm_source=share&utm_medium=member_desktop
+1. Object Detection for Robotic Vision
+Project Statement: Develop an object detection system for robotic vision.
+Tools: TensorFlow, Python
+Concepts: Convolutional Neural Networks (CNN), Image Processing
+Difficulty Level: ⭐⭐
+
+2. Human Detection and Counting in Crowds
+Project Statement: Create a system for robots to detect and count humans in crowded environments.
+Tools: YOLO (You Only Look Once), Python
+Concepts: Object Detection, Crowd Analysis
+Difficulty Level: ⭐⭐⭐⭐
+
+3. Hand Gesture Recognition for Robotic Control
+Project Statement: Implement a hand gesture recognition system for controlling robots.
+Tools: Leap Motion, Python
+Concepts: Gesture Recognition, Sensor Data Processing
+Difficulty Level: ⭐⭐⭐
+
+4. Color and Object Recognition for Sorting Robots
+Project Statement: Create a system for a robot to recognize and sort objects based on color and shape.
+Tools: Arduino, RGB Sensors
+Concepts: Color Detection, Machine Vision
+Difficulty Level: ⭐⭐⭐
+
+5. 3D Object Reconstruction for Robotic Vision
+Project Statement: Implement a system for a robot to reconstruct 3D objects from 2D images.
+Tools: OpenCV, Python
+Concepts: Stereoscopic Vision, 3D Modeling
+Difficulty Level: ⭐⭐⭐
+
+Machine Learining - https://www.linkedin.com/feed/update/urn:li:activity:7116316232600956928/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7116316232600956928%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+1. Multi Modal Humanoid Robot Emotion Recognition 😃🤖
+Project Statement: Develop emotion recognition for humanoid robots.
+Tools: ROS, Python
+Concepts: Facial Expression Analysis, Deep Learning
+Difficulty Level: ⭐⭐
+
+Resources - https://www.learnroboticsandai.com/
