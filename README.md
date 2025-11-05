@@ -7,17 +7,33 @@
 Folder Structure
 Computer Vision
 |---Tools
-|   |---ReadMe.md
-|   |---PFMtoPCD
+    |---PFMtoPCD
+
 |---Topics
-    |---Image_Types.ipynb
-    |---Point_Operatations.ipynb
-    |---Thresholding.ipynb
-    |---images
-        |---lena.png
-        |---otsu_equations.png
-        |---color_pallete.png
-        |---dark_image.png
+    |---2D_Image_Processing
+        |---Image_Types.ipynb
+        |---Point_Operatations.ipynb
+        |---Thresholding.ipynb
+        |---Filtering.ipynb
+        |---Geometric_Operations.ipynb
+        |---Histograms.ipynb
+        |---Morphological_Operations.ipynb
+        |---Edge_Detection.ipynb
+        |---images
+            |---lena.png
+            |---otsu_equations.png
+            |---color_pallete.png
+            |---dark_image.png
+            |---closing_image.png
+            |---dark_image.png
+            |---erosion_dilation_image.png
+            |---gradient.png
+            |---lena_noise.png
+            |---opening_image.png
+    |---3D Image Processing
+
+|---Projects
+    |---Object_Detection
 ````````````````````````````````````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````````````````````````````````````
 ````````````````````````````````````````````````````````````````````````````````````````
