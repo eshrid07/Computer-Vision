@@ -15,6 +15,7 @@ Computer Vision
         |---Histograms.ipynb
         |---Morphological_Operations.ipynb
         |---Edge_Detection.ipynb
+        |---Image_Segmentation.ipynb
         |---images
             |---lena.png
             |---otsu_equations.png
@@ -26,6 +27,8 @@ Computer Vision
             |---gradient.png
             |---lena_noise.png
             |---opening_image.png
+            |---man.png
+            |---eight.tif
     |---3D Image Processing
 
 |---Projects
