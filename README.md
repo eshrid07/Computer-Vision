@@ -30,6 +30,13 @@ Computer Vision
             |---man.png
             |---eight.tif
     |---3D Image Processing
+        |---3D_Data_Types.ipynb
+        |---data
+            |---sample.pcd
+            |---sample.ply
+            |---sample.stl
+            |---sample.obj
+            |---sample.mtl
 
 |---Projects
     |---Object_Detection
