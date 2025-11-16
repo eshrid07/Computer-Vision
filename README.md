@@ -37,6 +37,8 @@ Computer Vision
             |---sample.stl
             |---sample.obj
             |---sample.mtl
+    |---Deep Learning
+        |---Classification.ipynb
 
 |---Projects
     |---Object_Detection
