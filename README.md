@@ -4,6 +4,7 @@ Folder Structure
 Computer Vision
 |---Tools
     |---PFMtoPCD
+    |---Synthetic_Depth_Image
 
 |---Topics
     |---2D_Image_Processing
