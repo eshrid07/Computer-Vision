@@ -16,7 +16,7 @@ def main():
     except:
         print("Issue with the box_dimensions.json file")
 
-    depth_image = np.zeros((image_height, image_width, 1), dtype=np.float64)
+    depth_image = np.zeros((image_height, image_width), dtype=np.uint16)
     depth_image[0:image_height, 0:image_width] = float(ground_distance)
     for i in objects_data.keys():
         if "box" in i:
@@ -35,7 +35,8 @@ def main():
             y2 = 0 if y2 < 0 else image_height-1 if y2 >= image_height else y2
 
             # Check for Overlap
-            if depth_image[y1:y2, x1:x2].sum() == 0:
+            region = depth_image[y1:y2, x1:x2]
+            if np.all(region == ground_distance):
                 depth_image[y1:y2, x1:x2] = float(depth)
             else:
                 print("skipping the box because of overlap")
