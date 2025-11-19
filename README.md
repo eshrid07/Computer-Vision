@@ -33,12 +33,15 @@ Computer Vision
             |---eight.tif
     |---3D Image Processing
         |---3D_Data_Types.ipynb
+        |---PointCloud_Generation.ipynb
         |---data
             |---sample.pcd
             |---sample.ply
             |---sample.stl
             |---sample.obj
             |---sample.mtl
+            |---depth_pointcloud.pcd
+            |---rgbd_pointcloud.pcd
     |---Deep Learning
         |---Classification.ipynb
 
